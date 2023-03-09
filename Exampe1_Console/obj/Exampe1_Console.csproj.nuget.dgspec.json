@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alr/#My files/GeekBrain/C/Exampe1_Console/Exampe1_Console.csproj": {}
+  },
+  "projects": {
+    "/Users/alr/#My files/GeekBrain/C/Exampe1_Console/Exampe1_Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alr/#My files/GeekBrain/C/Exampe1_Console/Exampe1_Console.csproj",
+        "projectName": "Exampe1_Console",
+        "projectPath": "/Users/alr/#My files/GeekBrain/C/Exampe1_Console/Exampe1_Console.csproj",
+        "packagesPath": "/Users/alr/.nuget/packages/",
+        "outputPath": "/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

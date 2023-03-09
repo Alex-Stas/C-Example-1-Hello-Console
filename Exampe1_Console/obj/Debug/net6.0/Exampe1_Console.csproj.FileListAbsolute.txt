@@ -1,0 +1,15 @@
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/bin/Debug/net6.0/Exampe1_Console
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/bin/Debug/net6.0/Exampe1_Console.deps.json
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/bin/Debug/net6.0/Exampe1_Console.runtimeconfig.json
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/bin/Debug/net6.0/Exampe1_Console.dll
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/bin/Debug/net6.0/Exampe1_Console.pdb
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/Debug/net6.0/Exampe1_Console.csproj.AssemblyReference.cache
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/Debug/net6.0/Exampe1_Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/Debug/net6.0/Exampe1_Console.AssemblyInfoInputs.cache
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/Debug/net6.0/Exampe1_Console.AssemblyInfo.cs
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/Debug/net6.0/Exampe1_Console.csproj.CoreCompileInputs.cache
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/Debug/net6.0/Exampe1_Console.dll
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/Debug/net6.0/refint/Exampe1_Console.dll
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/Debug/net6.0/Exampe1_Console.pdb
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/Debug/net6.0/Exampe1_Console.genruntimeconfig.cache
+/Users/alr/#My files/GeekBrain/C/Exampe1_Console/obj/Debug/net6.0/ref/Exampe1_Console.dll
